@@ -3,7 +3,7 @@
 Este projeto foi desenvolvido como parte da disciplina **Projeto, Design e Engenharia de Processos** do curso de **Ciência da Computação**.
 
 - **Professor**: Augusto Krüger Ortolan  
-- **Autor**: Seu Nome Completo
+- **Integrantes**: Gabriel Viecili, Arthur Dezingrini
 
 ---
 
